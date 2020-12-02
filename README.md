@@ -7,9 +7,9 @@ The purpose of this project is to give you an opportunity to work on a full data
 ### Deadlines
 Friday, Dec 4: Meet with teacher to discuss your choice of dataset.
 
-Wednesday, Dec 9: Meet with teacher to discuss progress. **QUIZ GRADE**
+Wednesday, Dec 9: Meet with teacher to discuss progress. **(QUIZ GRADE)**
 
-Wednesday, dec 16: Project due.
+Wednesday, Dec 16: Project due.
 
 
 
