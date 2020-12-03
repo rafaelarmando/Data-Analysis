@@ -20,13 +20,13 @@ You are expected to do all your work inside the **Analysis.Rmd** file; this incl
 
 In the beginning, you might not know exactly what questions you'd like to answer, but you can follow the path below to help you get started. 
 
-**Visualize** your dataset: Create a few preliminary plots to help you gain an understanding of your data.
+1. **Visualize** your dataset: Create a few preliminary plots to help you gain an understanding of your data.
 
-**Transform** your dataset: Consider *filter*ing your dataset a few times so you can focus on different subsets of your data. Use *mutate* or *summarize* to add new variables to your dataset computed from existing values. Follow this with new visualizations to gain a deeper understanding of your dataset and start asking questions.
+2. **Transform** your dataset: Consider *filter*ing your dataset a few times so you can focus on different subsets of your data. Use *mutate* or *summarize* to add new variables to your dataset computed from existing values. Follow this with new visualizations to gain a deeper understanding of your dataset and start asking questions.
 
-**Explore** your dataset: Investigate the *variation* and *covariation* in your dataset. 
+3. **Explore** your dataset: Investigate the *variation* and *covariation* in your dataset. 
 
-**Present** your findings: Use the **Presentation.Rmd** file to create a slide show summarizing your findings.
+4. **Present** your findings: Use the **Presentation.Rmd** file to create a slide show summarizing your findings.
 
 
 
